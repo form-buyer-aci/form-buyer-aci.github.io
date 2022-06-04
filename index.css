@@ -6,9 +6,17 @@
   border-bottom-right-radius: 100px;
   border-bottom-left-radius: 100px;
 }
+.alert {
+  background-color: #7fb814;
+  margin-top: 66px !important;
+  margin-left: 40px !important;
+  width: 705px !important;
+  font-size: 25px;
+  text-align: center;
+}
 .logo {
   height: 350px;
-  margin-left: 220px;
+  margin-left: 200px;
   margin-top: 200px;
 }
 .display-4 {
@@ -44,6 +52,10 @@ form {
   border-radius: 5px;
   height: 50px;
   width: 685px;
+  margin-top: 10px;
+}
+.tertarik1 {
+  font-size: 15px;
   margin-top: 10px;
 }
 .btn {
@@ -90,6 +102,10 @@ produk2 {
     margin-top: 280px;
     margin-left: 720px;
   }
+  .tertarik1 {
+    font-size: 20px;
+    margin-top: 0px;
+  }
   .display-4 {
     color: white;
     margin-top: -300px !important;
@@ -105,7 +121,7 @@ produk2 {
     border: 2px solid black;
     background-color: white;
     width: 1200px;
-    height: 1130px;
+    height: 1100px;
     margin-left: 78px;
     border-radius: 20px;
   }
@@ -128,6 +144,7 @@ produk2 {
   }
   .btn {
     background-color: #7fb814;
+    color: white;
     width: 1120px;
     font-size: 20px;
     margin-top: 50px;
@@ -160,5 +177,13 @@ produk2 {
   }
   produk2 {
     float: left;
+  }
+  .alert {
+    background-color: #7fb814;
+    margin-top: 135px !important;
+    margin-left: 90px !important;
+    width: 1165px !important;
+    font-size: 25px;
+    text-align: center;
   }
 }
