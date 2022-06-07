@@ -1,5 +1,5 @@
 .jumbotron {
-  background-image: url(image/WhatsApp\ Image\ 2022-06-03\ at\ 14.59.21.jpeg);
+  background-image: url(image/photo1649215914a.jpeg);
   margin-top: -130px !important;
   width: 800px;
   height: 1100px;
@@ -89,7 +89,7 @@ produk2 {
 }
 @media (min-width: 992px) {
   .jumbotron {
-    background-image: url(image/WhatsApp\ Image\ 2022-06-03\ at\ 14.59.21.jpeg);
+    background-image: url(image/photo1649215914a.jpeg);
     margin-top: -130px !important;
     background-size: cover !important;
     width: 100%;
